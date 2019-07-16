@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# ACM Uniandes Code of Conduct
 
 ## 1. Purpose
 

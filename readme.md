@@ -44,7 +44,7 @@ discriminación, comunicación despectiva o degradante o acciones por cualquier
 participante en nuestra comunidad ya sea en internet, en todos los eventos 
 relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de
 los negocios de la comunidad. Es posible que los lugares para eventos
-comunitarios sean de uso compartido con los miembros del público; por favor ser 
+comunitarios sean de uso compartido con los miembros del público; por favor sea 
 respetuoso con todos aquellos que los frecuentan.
 
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos
@@ -65,7 +65,7 @@ inaceptable lo hagan de manera inmediata.
 
 Si un miembro de la comunidad participa en una conducta inaceptable, los 
 organizadores comunitarios pueden tomar cualquier acción que consideren
-apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente 
+apropiada, incluyendo una prohibición temporal, llegando hasta una expulsión permanente 
 de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un 
 evento de pago).
 
@@ -80,7 +80,7 @@ Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
 víctimas de comportamiento inaceptable se sientan seguros,
 En el contexto de los eventos en persona, los organizadores
-también pueden proporcionar escoltas si un miembro de la comunidad lo siente 
+también pueden proporcionar escoltas, si un miembro de la comunidad lo siente 
 necesario.
 
 ## 7. Políticas de moderación
@@ -104,7 +104,7 @@ grupos de estudio, y eventos virtuales.
     expulsado del grupo/evento/lugar/Slack de forma indefinida.
   * Los organizadores pueden retractar la expulsión a su discreción si esta se 
     trata de una primera infracción y se ha ofrecido una disculpa sincera a 
-    quien ofendieron.
+    quien se vio ofendido.
   * Si un organizador expulsa a alguien y usted cree que fue una expulsión sin 
     causa, contacte a ese organizador, o a un organizador diferente 
     **en privado**. Quejas sobre expulsiones en medios abiertos, sociales, u 
@@ -116,9 +116,9 @@ grupos de estudio, y eventos virtuales.
 En la comunidad ACM Uniandes nos esforzamos por ir un paso más allá y cuidar 
 el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate 
 también de ser la mejor persona posible. En particular, evite tocar temas 
-ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a
-menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la 
-confianza; peor aún, puede conducir a que personas se alejen de la comunidad en 
+ofensivos o sensibles, especialmente si están fuera del tema tratado; esto puede conducir
+ a peleas innecesarias, sentimientos heridos, y a daños en la 
+confianza; en casos más graves, puede conducir a que personas se alejen de la comunidad en 
 su totalidad.
 
 De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo,

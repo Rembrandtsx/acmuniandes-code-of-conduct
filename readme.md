@@ -50,7 +50,7 @@ respetuoso con todos aquellos que los frecuentan.
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos
 relacionados con el género, la orientación sexual, raza, religión, discapacidad; 
 uso inadecuado de desnudos y / o imágenes sexuales en espacios públicos 
-(incluyendo la presentación diapositivas); intimidación deliberada, acecho o 
+(incluyendo la presentación diapositivas) intimidación deliberada, acecho o 
 seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de
 charlas y otros eventos; contacto físico inapropiado, y atención sexual no 
 deseada.
@@ -65,7 +65,7 @@ inaceptable lo hagan de manera inmediata.
 
 Si un miembro de la comunidad participa en una conducta inaceptable, los 
 organizadores comunitarios pueden tomar cualquier acción que consideren
-apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente 
+apropiada, hasta una prohibición temporal o expulsión permanente 
 de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un 
 evento de pago).
 

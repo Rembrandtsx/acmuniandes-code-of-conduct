@@ -12,7 +12,7 @@ Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el 
 comportamiento inaceptable.
 
-Invitamos a todos los que participan en ACM Uniandes a que nos ayuden a crear
+Invitamos a todos las personas que participan en ACM Uniandes a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
 ## 2. La comunidad de ACM Uniandes
@@ -90,9 +90,9 @@ comunidad en los canales de chat, meetups asociados, conferencias,
 grupos de estudio, y eventos virtuales.
 
   * Palabras que violen las normas de Código de Conducta, incluyendo comentarios 
-    odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se 
+    odiosos, hirientes, opresivos, o excluyentes, no están permitidos.(Se 
     permite las "malas palabras", pero nunca enfocadas hacia otro 
-    usuario/asistente, y nunca de una manera odiosa.)
+    usuario/asistente, y nunca de una manera odiosa).
   * Comentarios que los organizadores encuentran inapropiados tampoco están 
     permitidos, así aparezcan en el código de conducta o no.
   * Los organizadores primero deberán responder a dichos comentarios con una 
